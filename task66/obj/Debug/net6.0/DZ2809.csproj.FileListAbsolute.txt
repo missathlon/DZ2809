@@ -1,0 +1,15 @@
+C:\Users\missa\OneDrive\Desktop\DZ\DZ2809\bin\Debug\net6.0\DZ2809.exe
+C:\Users\missa\OneDrive\Desktop\DZ\DZ2809\bin\Debug\net6.0\DZ2809.deps.json
+C:\Users\missa\OneDrive\Desktop\DZ\DZ2809\bin\Debug\net6.0\DZ2809.runtimeconfig.json
+C:\Users\missa\OneDrive\Desktop\DZ\DZ2809\bin\Debug\net6.0\DZ2809.dll
+C:\Users\missa\OneDrive\Desktop\DZ\DZ2809\bin\Debug\net6.0\DZ2809.pdb
+C:\Users\missa\OneDrive\Desktop\DZ\DZ2809\obj\Debug\net6.0\DZ2809.csproj.AssemblyReference.cache
+C:\Users\missa\OneDrive\Desktop\DZ\DZ2809\obj\Debug\net6.0\DZ2809.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missa\OneDrive\Desktop\DZ\DZ2809\obj\Debug\net6.0\DZ2809.AssemblyInfoInputs.cache
+C:\Users\missa\OneDrive\Desktop\DZ\DZ2809\obj\Debug\net6.0\DZ2809.AssemblyInfo.cs
+C:\Users\missa\OneDrive\Desktop\DZ\DZ2809\obj\Debug\net6.0\DZ2809.csproj.CoreCompileInputs.cache
+C:\Users\missa\OneDrive\Desktop\DZ\DZ2809\obj\Debug\net6.0\DZ2809.dll
+C:\Users\missa\OneDrive\Desktop\DZ\DZ2809\obj\Debug\net6.0\refint\DZ2809.dll
+C:\Users\missa\OneDrive\Desktop\DZ\DZ2809\obj\Debug\net6.0\DZ2809.pdb
+C:\Users\missa\OneDrive\Desktop\DZ\DZ2809\obj\Debug\net6.0\DZ2809.genruntimeconfig.cache
+C:\Users\missa\OneDrive\Desktop\DZ\DZ2809\obj\Debug\net6.0\ref\DZ2809.dll
